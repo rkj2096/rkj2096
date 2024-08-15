@@ -31,9 +31,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkj2096&label=Profile%20views&color=0e75b6&style=flat" alt="rkj2096" /> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkj2096&show_icons=true&locale=en&layout=compact" alt="rkj2096" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkj2096&show_icons=true&locale=en&layout=compact" alt="rkj2096" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkj2096&show_icons=true&locale=en" alt="rkj2096" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkj2096&show_icons=true&locale=en" alt="rkj2096" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkj2096&theme=dark" alt="rkj2096" /></p>
 
