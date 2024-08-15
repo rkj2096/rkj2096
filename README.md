@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://rkj2096.github.io/" target="_blank">Rohit</a></h1>
 <h4 align="center">Hey there! I'm a passionate software developer from India and with a Master’s degree in Computer Science.
   I've worked on a several of tech stacks, tackled complex projects, and love making systems faster and more efficient. I’ve migrated legacy apps, implemented microservices, and worked closely with teams to get things done. Outside of work, I’m into Aikido, swimming, and trekking. Let's build something cool together!</h4>
 
